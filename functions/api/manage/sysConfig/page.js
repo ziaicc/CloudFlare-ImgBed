@@ -75,7 +75,7 @@ export async function getPageConfig(db, env) {
         {
             id: 'logoLink',
             label: 'Logo跳转链接',
-            placeholder: 'https://www.jingyouwangchuang.cn',
+            placeholder: 'https://www.ziai.cc',
             tooltip: '点击Logo时跳转的链接',
             category: '全局设置',
         },
